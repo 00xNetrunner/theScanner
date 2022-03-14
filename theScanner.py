@@ -21,9 +21,7 @@ def menu():
   \__|_| |_|\___|_____/ \___\__,_|_| |_|_| |_|\___|_|
   
   ! theScanner 1.0
-  ! Coded by Leif R Bruce
-  ! $ ./Netrunner_& Security
-  ! leifbruce1996@gmail.com
+  ! Coded by $ ./Netrunner_&
     
     
     
