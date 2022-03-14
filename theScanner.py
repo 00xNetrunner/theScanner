@@ -22,7 +22,7 @@ def menu():
   
   ! theScanner 1.0
   ! Coded by Leif R Bruce
-  ! Netrunner Security
+  ! $ ./Netrunner_& Security
   ! leifbruce1996@gmail.com
     
     
